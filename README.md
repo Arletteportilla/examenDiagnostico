@@ -23,7 +23,6 @@ Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 El proyecto está estructurado de la siguiente manera:
 - `main.dart`: Contiene el punto de entrada de la aplicación y la lógica de la interfaz de usuario principal.
 - `widget.dart`: Define un widget personalizado para mostrar la información de los estudiantes.
-
-https://github.com/Arletteportilla/examenDiagnostico.git
+- https://github.com/Arletteportilla/examenDiagnostico.git
 
 
